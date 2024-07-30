@@ -5,6 +5,10 @@ This repository contains breakout boards that allow you to use surface mount com
 
 ## Features
 - **0.1" Spaced Male Headers:** Use these headers to connect the breakout boards to your breadboard or veroboard.
+- **Testpoints** Each pin has it own dedicated testpoint for easier debugging when using an oscilloscope or multimeter
+- **Dedicated VCC and GND Pins** Top row is always VCC and Bottom is GND
+- **Decoupling Capacitor** Ability to a decoupling capacitor on board and use a jumper wire to your ICs Vcc pin
+- **Output Capacitor** Ability to add output capacitor as well in-even the is Vout Pin. Be sure to cut pad in the middle to decouple the VCCs (see above capacitors)
 - **SOT23-6 Component Support (more to come):** The breakout boards are designed to accommodate SMD components of these sizes.
 - **Cost-Effective:** SMD components are generally cheaper than their through-hole counterparts.
 - **Fits on Perfboards:** You can also use these breakout boards on perfboards for more permanent projects.
