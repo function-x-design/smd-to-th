@@ -4,5 +4,5 @@
 ### v1.0.0
 - Initial Release
 ## SOT23-6 Images
-![alt text](https://github.com/function-x-design/smd-to-th-designs/blob/main/sot23-6/images/Front.png)
-![alt text](https://github.com/function-x-design/smd-to-th-designs/blob/main/sot23-6/images/Back.png)
+![alt text](https://github.com/function-x-design/smd-to-th/blob/main/sot23-6/images/v1.0.1/Front.png)
+![alt text](https://github.com/function-x-design/smd-to-th/blob/main/sot23-6/images/v1.0.1/Back.png)
