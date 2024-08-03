@@ -22,8 +22,8 @@ This repository contains breakout boards that allow you to use surface mount com
 - `sot23-6`: Contains images of PCB and production files for various manufacturers
 
 ## SOT23-6 Images
-![alt text](https://github.com/function-x-design/smd-to-th-designs/blob/main/sot23-6/images/Front.png=450x)
-![alt text](https://github.com/function-x-design/smd-to-th-designs/blob/main/sot23-6/images/Back.png=450x)
+![alt text](https://github.com/function-x-design/smd-to-th-designs/blob/main/sot23-6/images/Front.png =450x)
+![alt text](https://github.com/function-x-design/smd-to-th-designs/blob/main/sot23-6/images/Back.png =450x)
 
 
 Feel free to customize this README with additional details, instructions, or images specific to your project. Happy prototyping! 🛠️
