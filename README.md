@@ -9,7 +9,6 @@ This repository contains breakout boards that allow you to use surface mount com
 - **Dedicated VCC and GND Pins** Top row is always VCC and Bottom is GND
 - **Decoupling Capacitor** Ability to a decoupling capacitor on board and use a jumper wire to your ICs Vcc pin
 - **Output Capacitor** Ability to add output capacitor as well in-even the is Vout Pin. Be sure to cut pad in the middle to decouple the VCCs (see above capacitors)
-- **SOT23-6 Component Support (more to come):** The breakout boards are designed to accommodate SMD components of these sizes.
 - **Cost-Effective:** SMD components are generally cheaper than their through-hole counterparts.
 - **Fits on Perfboards:** You can also use these breakout boards on perfboards for more permanent projects.
 
@@ -21,9 +20,9 @@ This repository contains breakout boards that allow you to use surface mount com
 ## Repository Contents
 - `sot23-6`: Contains images of PCB and production files for various manufacturers
 
-## SOT23-6 Images
-![alt text](https://github.com/function-x-design/smd-to-th-designs/blob/main/sot23-6/images/Front.png)
-![alt text](https://github.com/function-x-design/smd-to-th-designs/blob/main/sot23-6/images/Back.png)
+## Breakout Board
+- SOT23-6
+- MORE TO COME....
 
 
 Feel free to customize this README with additional details, instructions, or images specific to your project. Happy prototyping! 🛠️
