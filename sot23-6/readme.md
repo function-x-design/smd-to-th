@@ -1,6 +1,6 @@
-## SOT23-6 Images
+## Version
 ### v1.0.1
-- Updaet PCB to have rounded corners
+- Update PCB to have rounded corners
 ### v1.0.0
 - Initial Release
 ## SOT23-6 Images
