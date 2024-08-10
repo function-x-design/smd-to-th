@@ -19,10 +19,11 @@ This repository contains breakout boards that allow you to use surface mount com
 
 ## Repository Contents
 - `sot23-6`: Contains images of PCB and production files for various manufacturers
+- `soic-8`: Contains images of PCB and production files for various manufacturers
 
 ## Breakout Board
 - SOT23-6
+- SOIC-8
 - MORE TO COME....
 
-
-Feel free to customize this README with additional details, instructions, or images specific to your project. Happy prototyping! 🛠️
+Happy prototyping! 🛠️
