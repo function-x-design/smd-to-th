@@ -24,6 +24,7 @@ This repository contains breakout boards that allow you to use surface mount com
 ## Breakout Board
 - SOT23-6
 - SOIC-8
+- TO-252-2
 - MORE TO COME....
 
 Happy prototyping! 🛠️
